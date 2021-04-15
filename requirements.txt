@@ -1,0 +1,11 @@
+voila
+voila-material
+bqplot
+sklearn
+pandas
+matplotlib
+ipywidgets
+numpy
+IPython
+seaborn
+
